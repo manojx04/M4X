@@ -1,0 +1,21 @@
+git init - git ah initialise pannanum na use pannurathuku
+oru file add,commit,push pannalam
+athuku firstu connect the folder to GitHub
+Aathuku use git --global username""
+            git --global email""
+use panna than connect aghum to cloud
+after that we create some file
+#1 git clone ur repo
+#2 git add "Filename"
+#3 git commit -m"changes"
+#4 git push  angha update aghidum
+ippo angha ethuvum change pannanom na
+cmd prmpt poghi git pull use pannanum,then it will get updated
+git diff (ethuvum file ah modify panni irunthomna antha cmd use panni pakalam"
+git add ./ (explanation . and ./ means ellame) it will add files in the folder to directory
+
+git branch 
+
+branch na oru folder mathiri , namba work ku different folder venum clash agha kudathu na sub branch create pannikalam
+git checkout -b"name" (new branch ku checkout pannitu poren)
+git checkout main  (it means main branch ku again poghuren)
